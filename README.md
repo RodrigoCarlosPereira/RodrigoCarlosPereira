@@ -1,8 +1,11 @@
 # RodrigoCarlosPereira
 
 -🔎 Buscando minha primeira oportunidade de emprego!
+
 -💻 Estudante do 4º período de Análise e Desenvolvimento de Sistemas
+
 -🎵 Apaixonado por música e tecnologia
+
 -Sou entusiasta da programação e sempre estou em busca de aprender novas tecnologias. Meu objetivo é ingressar no mercado de trabalho, contribuir com projetos inovadores e evoluir constantemente como desenvolvedor.
 
 ## Conecte-se Comigo
