@@ -1,5 +1,10 @@
 # RodrigoCarlosPereira
 
+🔎 Buscando minha primeira oportunidade de emprego!
+💻 Estudante do 4º período de Análise e Desenvolvimento de Sistemas
+🎵 Apaixonado por música e tecnologia
+Sou entusiasta da programação e sempre estou em busca de aprender novas tecnologias. Meu objetivo é ingressar no mercado de trabalho, contribuir com projetos inovadores e evoluir constantemente como desenvolvedor.
+
 ## Conecte-se Comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoCarlosPereira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&)](https://www.linkedin.com/in/rodrigo-carlos-souza-pereira-69782711b/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@RodrigoPereira/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:rodrigocarlospereira.16@outlook.com)
