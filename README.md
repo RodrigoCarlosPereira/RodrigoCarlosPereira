@@ -4,7 +4,7 @@
 
 -🖥️ Buscando me Aperfeiçoar do Desenvolvimento Back-End
 
--💻 Estudante do 4º período de Análise e Desenvolvimento de Sistemas na FICR.
+-💻 Estudante de Análise e Desenvolvimento de Sistemas na FICR.
 
 -🎵 Apaixonado por música e tecnologia.
 
