@@ -1,6 +1,6 @@
 # Rodrigo Pereira
 
--🔎 Buscando minha primeira oportunidade de emprego!
+-🔎 Buscando minha primeira oportunidade em Desenvolvimento!
 
 -🖥️ Buscando me Aperfeiçoar do Desenvolvimento Back-End
 
